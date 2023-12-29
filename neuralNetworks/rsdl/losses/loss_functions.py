@@ -17,7 +17,7 @@ def CategoricalCrossEntropy(predicts: Tensor, actual: Tensor):
     log_softmax = softmax.log()
 
     l_vector = -actual * log_softmax
-    l = -l_vector.sum()
-    return l
+    return -l_vector.sum()
+
 
 

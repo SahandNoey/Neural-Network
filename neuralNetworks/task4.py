@@ -14,9 +14,10 @@ b = Tensor(np.random.randn(), requires_grad=True)
 
 print(w)
 print(b)
+print()
 
 learning_rate = 0.1
-batch_size = 32
+batch_size = 25
 
 for epoch in range(100):
 

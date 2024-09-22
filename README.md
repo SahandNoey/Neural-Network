@@ -1,5 +1,5 @@
-## Neural Network implementation using PyTorch
-### Task 1 & 2: Recognize numbers using Fully Connected Neural Networks and CNNs
+## Neural Network implementation
+### Task 1 & 2: Recognize numbers using Fully Connected Neural Networks and CNNs in Pytorch
 - **ReLU** activation function
 - Stochastic Gradient Descent(**SGD**) optimizer
 - **Cross Entropy** Loss Function
@@ -14,7 +14,7 @@ Validation Accuracy of Fully Connected NN<br><br><br><br>
 
 Validation Accuracy of CNN<br><br><br><br>
 
-### Task 3: Recognize brain tumor
+### Task 3: Recognize brain tumor in PyTorch
 - Model: **ResNet50**
 - Optimizer: **Adam**
 - Loss Function: **Cross Entropy** 

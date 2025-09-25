@@ -1,5 +1,5 @@
 ## Neural Network implementation
-### Task 1 & 2: Recognize numbers using Fully Connected Neural Networks and CNNs in Pytorch
+### Task 1 & 2: Recognize handwritten numbers using Fully Connected Neural Networks and CNNs in Pytorch
 - **ReLU** activation function
 - Stochastic Gradient Descent(**SGD**) optimizer
 - **Cross Entropy** Loss Function
